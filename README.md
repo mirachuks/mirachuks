@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirachuks
-- 👀 I’m interested in PHP, Python and Javascript.
+- 👀 I’m interested in PHP, Python, Java, Javascript, SQL, HTML, XML, CSS, React ,  Wordpress Symfony, Wordpress,and  Wix
 - 🌱 I’m currently learning Java...
 - 💞️ I’m looking to collaborate on interested persons...
 - 📫 How to reach me https://github.com/mirachuks
